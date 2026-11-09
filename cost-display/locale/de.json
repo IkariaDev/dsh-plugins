@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "API-Kosten",
+    "description": "Zeigt die geschätzten API-Kosten (DeepSeek und Custom-Provider wie CommandCode) in der Statusleiste und unter jeder abgeschlossenen Antwort – inklusive Cache-Treffern und Peak-/Off-Peak-Preisen."
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "API cost",
+    "description": "Shows the estimated API cost (DeepSeek and custom providers such as CommandCode) in the status bar and under every completed Turn, including cache hits and peak/off-peak rates."
+  }
+}
